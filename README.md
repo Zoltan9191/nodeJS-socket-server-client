@@ -1,5 +1,6 @@
 # nodeJS-socket-server-client
 nodeJS socket server+client
 
-USE node server.js for server
-AND node client.js for client
+USE <b>node server.js</b> for server
+
+AND <b>node client.js</b> for client
